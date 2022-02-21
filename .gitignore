@@ -6,7 +6,7 @@
 .pnp.js
 
 # lib
-lib
+*.lib
 
 # testing
 /coverage
