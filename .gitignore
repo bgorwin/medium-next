@@ -6,7 +6,7 @@
 .pnp.js
 
 # lib
-lib/*.ts
+/lib/*.ts
 
 # testing
 /coverage
